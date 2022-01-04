@@ -1,0 +1,4 @@
+opencv-python-4.5.4.60
+pynput==1.6.8
+numpy-1.21.5
+imutils==0.5.3
